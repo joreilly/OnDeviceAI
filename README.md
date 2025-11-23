@@ -1,4 +1,4 @@
-Extremely inimal Compose Multiplatform sample that demonstrates use of on-device AI 
+Extremely minimal Compose Multiplatform sample that demonstrates use of on-device AI 
 on iOS and Android.  Specifically it uses [Foundation Model Framework](https://developer.apple.com/documentation/FoundationModels) on iOS and [MLKit 
 Prompt API](https://developers.google.com/ml-kit/genai/prompt/android/get-started) on Android.  
 
