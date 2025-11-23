@@ -8,6 +8,8 @@ to shared KMP code and invoked from the shared Compose Mutlplatform code if runn
 ### iOS (Swift)
 
 ```swift
+import FoundationModels
+
 class PromptApiIos: PromptApi {
     
     func generateContent(prompt: String) async throws -> String? {
@@ -22,6 +24,8 @@ class PromptApiIos: PromptApi {
 ### Android (Kotlin)
 
 ```kotlin
+import com.google.mlkit.genai.prompt.Generation
+
 class PromptApiAndroid: PromptApi {
     private val generativeModel = Generation.getClient()
 
