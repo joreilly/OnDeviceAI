@@ -14,7 +14,7 @@ androidx-testExt = "1.3.0"
 composeMultiplatform = "1.11.1"
 junit = "4.13.2"
 genaiPrompt = "1.0.0-beta4"
-multiplatformMarkdownRendererM3 = "0.43.0"
+multiplatformMarkdownRendererM3 = "0.45.0"
 
 [libraries]
 kotlin-test = { module = "org.jetbrains.kotlin:kotlin-test", version.ref = "kotlin" }
