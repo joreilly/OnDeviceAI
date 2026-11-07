@@ -13,7 +13,7 @@ androidx-lifecycle = "2.11.0"
 androidx-testExt = "1.3.0"
 composeMultiplatform = "1.12.2"
 junit = "4.13.2"
-genaiPrompt = "1.0.0-beta4"
+genaiPrompt = "1.0.0-beta5"
 multiplatformMarkdownRendererM3 = "0.46.0"
 
 [libraries]
